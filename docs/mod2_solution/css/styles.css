@@ -1,0 +1,13 @@
+body {
+    font-size: 130%;
+    font-family: chalkboard; 
+}
+p {
+     background-color: gray;
+    color: blue;
+  }
+   h1 {font: size 0.75em; 
+text-align: center;}
+   h2 {font-size: size .25em;
+    text-align: right;
+}
